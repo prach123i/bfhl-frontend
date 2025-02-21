@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import axios from "axios";
 
-const API_URL = "https://bjaj-finance-22ub3xc5t-prachi-sharmas-projects-4a9e8849.vercel.app/bfhl";
+const API_URL = "https://bjaj-finance.vercel.app/bfhl";
 
 function App() {
     const [jsonInput, setJsonInput] = useState("");
